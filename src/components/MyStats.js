@@ -10,18 +10,11 @@ import {
 	FlatList,
 	Keyboard,
 	TouchableWithoutFeedback,
-	ScrollView,
-	Touchable,
 	Modal,
 } from 'react-native';
 import PickerSelect from 'react-native-picker-select';
-// import Picker from 'react-native-picker';
-// import { Picker } from '@react-native-picker/picker';
 import { Feather, Ionicons } from '@expo/vector-icons';
-// import { Ionicons } from '@expo/vector-icons';
-import { FontAwesome } from '@expo/vector-icons';
 import { MaterialIcons } from '@expo/vector-icons';
-// Styling
 import mainStyles from '../styles/mainStyles';
 
 export const MyStatsScreen = ({
