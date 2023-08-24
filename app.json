@@ -15,7 +15,7 @@
 		"assetBundlePatterns": ["**/*"],
 		"ios": {
 			"supportsTablet": false,
-			"bundleIdentifier": "com.meangolf.meangolf",
+			"bundleIdentifier": "com.meangolf",
 			"buildNumber": "1.1.2`"
 		},
 		"android": {
@@ -23,7 +23,7 @@
 				"foregroundImage": "./assets/Icon_Splash1.png",
 				"backgroundColor": "#ffffff"
 			},
-			"package": "com.meangolf.meangolf",
+			"package": "com.meangolf",
 			"supportsRtl": true
 		},
 		"web": {

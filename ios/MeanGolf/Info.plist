@@ -25,7 +25,7 @@
       <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>com.meangolf.meangolf</string>
+          <string>com.meangolf</string>
         </array>
       </dict>
       <dict>

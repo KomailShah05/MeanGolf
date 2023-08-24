@@ -1,4 +1,4 @@
-package com.meangolf.meangolf;
+package com.meangolf;
 
 import android.app.Application;
 import android.content.res.Configuration;
